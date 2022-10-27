@@ -1,3 +1,3 @@
 # jankenpo-cordova
 
-I will finish it when I will have time.
+https://www.youtube.com/watch?v=oB2bg29_0ts
